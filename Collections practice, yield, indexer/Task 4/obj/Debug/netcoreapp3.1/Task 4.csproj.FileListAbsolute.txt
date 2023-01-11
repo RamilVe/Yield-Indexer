@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\ClassLibrary.runtimeconfig.json
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\ClassLibrary.runtimeconfig.dev.json
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\ClassLibrary.exe
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\Task 4.exe
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\Task 4.deps.json
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\Task 4.runtimeconfig.json
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\Task 4.runtimeconfig.dev.json
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\Task 4.dll
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\Task 4.pdb
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.AssemblyInfo.cs
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.csproj.CopyComplete
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.dll
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.pdb
+C:\Users\User\source\repos\Collections practice, yield, indexer\Task 4\obj\Debug\netcoreapp3.1\Task 4.genruntimeconfig.cache
